@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MyCrazyInjection">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyCrazyInjection</output-path>
+    <root id="archive" name="MyCrazyInjection.jar">
+      <element id="module-output" name="demoframework" />
+    </root>
+  </artifact>
+</component>
